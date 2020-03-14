@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\redmi\source\repos\ti1\ti1\source.cpp(49): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\redmi\source\repos\ti1\ti1\source.cpp(64): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+c:\users\redmi\source\repos\ti1\ti1\source.cpp(81): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\redmi\source\repos\ti1\ti1\source.cpp(167): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\redmi\source\repos\ti1\ti1\source.cpp(170): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TI1.vcxproj -> C:\Users\Redmi\source\repos\TI1\Debug\TI1.exe
